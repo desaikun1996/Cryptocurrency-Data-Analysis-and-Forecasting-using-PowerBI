@@ -1,5 +1,5 @@
 # Cryptocurrency Data Analysis and Forecasting using PowerBI
- Analysing and Forecasting the behaviour of various Cryptocurrencies based on their past data. Analysis to be done using PowerBI, creating multiple interactive dashboards linked together to showcase a well-designed exploration of the entire dataset. The second dashboard contains forecasting of future behaviour of various cryptocurrencies using PowerBI's in-built forecasting feature.
+ Analyzing and Forecasting the behavior of various Cryptocurrencies based on their past data. Analysis to be done using PowerBI, creating multiple interactive dashboards linked together to showcase a well-designed exploration of the entire dataset. The second dashboard contains forecasting of the future behavior of various cryptocurrencies using PowerBI's in-built forecasting feature.
 
 
 **Below are the final PowerBI Dashboards**
